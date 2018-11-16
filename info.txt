@@ -1,0 +1,6 @@
+Project was setup on 11-13-18 -- 6:00pm
+project completed 11-14-18 10:40am
+
+not yet pushed to Github 11-14-18 10:45am
+
+Deployed to surge https://fabulous-cup.surge.sh
